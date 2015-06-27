@@ -1,0 +1,44 @@
+{
+  "https://apps.ionic.io": [
+    {
+      "key": "__cfduid",
+      "value": "d1007f5980d8b457126ca0c25d4af13f21435354680",
+      "expires": "2016-06-25T21:38:00.000Z",
+      "path": "/",
+      "domain": "ionic.io",
+      "httpOnly": true,
+      "creation": "2015-06-26T21:38:00.753Z",
+      "_creationRuntimeIdx": 1,
+      "_initialCreationTime": 1435354680753,
+      "hostOnly": false,
+      "lastAccessed": "2015-06-26T21:38:00.757Z"
+    },
+    {
+      "key": "sessionid",
+      "value": "4rus3iwmkibox9se20exzwvce2z5puqm",
+      "domain": "ionic.io",
+      "expires": "2015-07-10T21:38:01.000Z",
+      "httpOnly": true,
+      "maxAge": 1209600,
+      "path": "/",
+      "creation": "2015-06-26T21:38:00.756Z",
+      "_creationRuntimeIdx": 2,
+      "_initialCreationTime": 1435354680755,
+      "hostOnly": false,
+      "lastAccessed": "2015-06-26T21:38:00.757Z"
+    },
+    {
+      "key": "csrftoken",
+      "value": "2aWsImT4mu9domycC6g0wUmnAAEdYAvo",
+      "domain": "ionic.io",
+      "expires": "2016-06-24T21:38:01.000Z",
+      "maxAge": 31449600,
+      "path": "/",
+      "creation": "2015-06-26T21:38:00.756Z",
+      "_creationRuntimeIdx": 3,
+      "_initialCreationTime": 1435354680756,
+      "hostOnly": false,
+      "lastAccessed": "2015-06-26T21:38:00.757Z"
+    }
+  ]
+}
